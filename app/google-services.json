@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221886797483",
+    "project_id": "login-register-baebb",
+    "storage_bucket": "login-register-baebb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221886797483:android:06cf0f282777e72a3089ee",
+        "android_client_info": {
+          "package_name": "com.example.loginformfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBICPeNlheP5tGVuOlEaHhbkzb4thVipjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
